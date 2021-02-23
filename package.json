@@ -1,0 +1,24 @@
+{
+  "name": "goit-workshop-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eastvarga/goit-workshop-2.git"
+  },
+  "keywords": [],
+  "author": "Alexander <ropoloid@bigmir.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eastvarga/goit-workshop-2/issues"
+  },
+  "homepage": "https://github.com/Eastvarga/goit-workshop-2#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
